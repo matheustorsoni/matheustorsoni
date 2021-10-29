@@ -1,12 +1,12 @@
 # Welcome!
-My name is Matheus Torsoni de Campos, I'm starting in System Analysis and Development (ADS).
-I am 23 years old and currently live in the city of Sorocaba-SP. I'm looking for a job opening so that I have the opportunity to improve my skills and refine my knowledge. I am an agile person, self-taught, communicative and with a great thirst for knowledge, mainly because of the aspects that cover the Full-stack. As I also have facility in teamwork because I believe that together we can build better projects, streamline certain points, bring better results and improve existing ones.
+Hello, my name is Matheus Torsoni de Campos, and I am studying Systems Analysis and Development (ADS).
+I am 23 years old and currently live in the city of Sorocaba - SP. I am looking for a job opening to have the opportunity to improve my skills and enhance my knowledge. I am an agile person, self-taught, communicative, and with a great thirst for knowledge. I enjoy teamwork because I believe that together we can build better projects, rationalize certain points, bring better results, and improve existing ones.
 
-In my free time I like to play games, skate, interact socially and cook. I graduated in gastronomy in January 2019 and then started to do higher education Nutrition, with the pandemic in 2020 I came to the conclusion that it was no longer my ambition to continue in the gastronomy business, much less nutrition. So, after a lot of research, start a new college (ADS) because since I was very young I liked programming, when I attended high school at school (SESI-006 Mangal) I had the opportunity to participate in projects focused on robotics.
+In my free time I like to play games, skateboard, interact socially, and cook. I graduated in gastronomy in January 2019 and then started doing higher education Nutrition, with the pandemic in 2020 I came to the conclusion that it was no longer my ambition to continue in the gastronomy business, let alone nutrition. So, after some thought, I started a new college (ADS).
 
-Today I focus my studies to become a Full-stack professional, participating in courses linked to college, thus seeking to make the most of my study time. I always try to get involved in the technology communities to learn and support this culture.
+Nowadays I concentrate my studies to become a full-stack professional, participating in courses related to the college, thus trying to take advantage of the technology to learn and support this culture.maximum my study time. I always try to get involved in the communities
 
-I am open to the opportunities that the future awaits me!
+I am open to the opportunities that the future holds!
 
 
 ##  
